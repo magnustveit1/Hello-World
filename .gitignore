@@ -3,6 +3,7 @@
 *.xlsx
 *.xls
 *.txt
+#more to test
 
 #folder to ignore
 data/
